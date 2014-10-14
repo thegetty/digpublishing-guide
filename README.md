@@ -1,7 +1,7 @@
 Digital Publishing Essentials
 =============================
 
-An ongoing list of potential digital publishing tools, interesting projects and like-minded organizations here on GitHub.
+An developing list of potential digital publishing tools, interesting projects and like-minded organizations here on GitHub.
 
 Name (link) | Type | Description
 :------- | :------- | :-------
@@ -29,10 +29,10 @@ Name (link) | Description
 [Holder](https://github.com/imsky/holder) | Client-side image placeholders.
 [animate.css](https://github.com/daneden/animate.css) | A cross-browser library of CSS animations. As easy to use as an easy thing.
 
-###Related Organizations on GitHub
+###Like-Minded Organizations
 * [Center for History and New Media](https://github.com/chnm)
 
-###Art Museums on GitHub
+###Art Museums
 * [Cooper Hewitt](https://github.com/cooperhewitt)
 * [Carnegie Museum of Art](https://github.com/cmoa)
 * [The Walters Art Museum](https://github.com/WaltersArtMuseum)
