@@ -1,7 +1,7 @@
 Digital-Publishing-on-GitHub
 ============================
 
-A list of interesting, open source projects and tools for digital publishing
+An ongoing list of interesting, open source projects and tools for digital publishing
 
 Name (link) | Type | Description
 :------- | :------- | :-------
@@ -21,3 +21,24 @@ Name (link) | Type | Description
 [ice](https://github.com/NYTimes/ice/) | Editing | track changes with javascript
 
 [Center for History and New Media](https://github.com/chnm)
+
+###Nuts and Bolts
+Name (link) | Description
+:------- | :-------
+[Bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+[FontAwesome](https://github.com/FortAwesome/Font-Awesome) | The iconic font and CSS toolkit.
+[Holder](https://github.com/imsky/holder) | Client-side image placeholders.
+[animate.css](https://github.com/daneden/animate.css) | A cross-browser library of CSS animations. As easy to use as an easy thing.
+
+
+###Art Museums on GitHub
+* [Cooper Hewitt](https://github.com/cooperhewitt)
+* [Carnegie Museum of Art](https://github.com/cmoa)
+* [The Walters Art Museum](https://github.com/WaltersArtMuseum)
+* [Indianapolis Museum of Art](https://github.com/IMAmuseum)
+* [Walker Art Center](https://github.com/walkerart)
+* [Minneapolis Institute of Art](https://github.com/artsmia)
+* [Met Media Lab](https://github.com/metmuseum-medialab)
+* [V&A](https://github.com/vanda)
+* [Tate](https://github.com/tategallery)
+* [Brooklyn Museum](https://github.com/brooklynmuseum)
