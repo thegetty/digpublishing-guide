@@ -1,7 +1,7 @@
-Digital-Publishing-on-GitHub
-============================
+Digital Publishing Essentials
+=============================
 
-An ongoing list of interesting, open source projects and tools for digital publishing
+An ongoing list of interesting digital publishing tools, projects and organizations here on GitHub.
 
 Name (link) | Type | Description
 :------- | :------- | :-------
@@ -9,7 +9,7 @@ Name (link) | Type | Description
 [ReadiumJS viewer](https://github.com/readium/readium-js-viewer) | EPUB Reader | Default web app for Readium.js library
 [skrollr](https://github.com/Prinzhorn/skrollr) | Web | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 [annotator](https://github.com/openannotation/annotator) | Annotation | Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
-[PressBooks](https://github.com/pressbooks/pressbooks) | EPUB | The CMS for books.
+[PressBooks](https://github.com/pressbooks/pressbooks) | Platform | The CMS for books.
 [pe-epub](https://github.com/peoples-e/pe-epub) | EPUB | Making ebooks better
 [cmoa-app-ios](https://github.com/cmoa/cmoa-app-ios) | Apps | A universal iOS application for Carnegie Museum of Art
 [muse-tech-central](https://github.com/MuseCompNet/muse-tech-central) | List | A collection of open-source museum projects
@@ -19,8 +19,7 @@ Name (link) | Type | Description
 [BookReader](https://github.com/openlibrary/bookreader) | PDF Reader | openlibrary bookreader
 [word-to-markdown](https://github.com/benbalter/word-to-markdown) | Editing | A ruby gem to liberate content from Microsoft Word documents
 [ice](https://github.com/NYTimes/ice/) | Editing | track changes with javascript
-
-[Center for History and New Media](https://github.com/chnm)
+[Baker](https://github.com/bakerframework/baker) | Platform | The HTML5 ebook framework to publish interactive books & magazines on iPad & iPhone using simply open web standards.
 
 ###Nuts and Bolts
 Name (link) | Description
@@ -30,6 +29,8 @@ Name (link) | Description
 [Holder](https://github.com/imsky/holder) | Client-side image placeholders.
 [animate.css](https://github.com/daneden/animate.css) | A cross-browser library of CSS animations. As easy to use as an easy thing.
 
+###Related Organizations on GitHub
+* [Center for History and New Media](https://github.com/chnm)
 
 ###Art Museums on GitHub
 * [Cooper Hewitt](https://github.com/cooperhewitt)
