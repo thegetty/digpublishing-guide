@@ -1,7 +1,7 @@
 Digital Publishing Essentials
 =============================
 
-An ongoing list of interesting digital publishing tools, projects and organizations here on GitHub.
+An ongoing list of potential digital publishing tools, interesting projects and like-minded organizations here on GitHub.
 
 Name (link) | Type | Description
 :------- | :------- | :-------
