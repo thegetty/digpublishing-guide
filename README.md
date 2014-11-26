@@ -17,6 +17,7 @@ Name (link) | Description
 :------- | :-------
 [skrollr](https://github.com/Prinzhorn/skrollr) | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love)
 [deck.js](https://github.com/imakewebthings/deck.js) | Modern HTML Presentations 
+[Alongslide](https://github.com/triplecanopy/alongslide) | Alongslide is a responsive, horizontal presentation framework for long-form reading on the web, employing a lightweight templating syntax for Markdown. 
 
 ###Extras
 Name (link) | Description
