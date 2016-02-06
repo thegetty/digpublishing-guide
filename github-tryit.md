@@ -1,7 +1,4 @@
-# GitHub Bootcamp
-
-
-## Try It
+## GitHub: Try It
 
 ### Creating a local copy of the repository
 
@@ -9,9 +6,9 @@ Our main project repository (made up of all the associated files for the project
 
 > Using GITHUB DESKTOP: Go to File > Clone Repository (ˆ⌘O), select the repository from the list, and select where on your computer you'd like to keep it.
 
-### Working in your local copy 
+### Working in your local copy
 
-GitHub connects your local copy of the repository to the main copy hosted on GitHub.com. If you make any change on your local files (including fixing a single typo, or adding or deleting entire files and folders within the repository) and then you commit and synch those changes through GitHub Desktop, they will be copied to the main repository. All changes (commits) are recorded and tracked, and can be reverted at anytime. 
+GitHub connects your local copy of the repository to the main copy hosted on GitHub.com. If you make any change on your local files (including fixing a single typo, or adding or deleting entire files and folders within the repository) and then you commit and synch those changes through GitHub Desktop, they will be copied to the main repository. All changes (commits) are recorded and tracked, and can be reverted at anytime.
 
 If changes are made and saved on the files but not committed, as far as GitHub is concerned, they never happened. Typically, you'll be updating the project in three steps: Save, commit, synch.
 
@@ -46,12 +43,6 @@ Branches are another way of grouping together similar work in the repository. Al
 - final-proofread
 - alternative-page-order-and-intro
 
-Creating a branch is different than cloning the repository. Cloning the repository creates a second set of files that are synched together so that a change in one set is copied to the other. Branching a repository only creates an alternate version of the same files, where a change is one version has no effect on the other. 
+Creating a branch is different than cloning the repository. Cloning the repository creates a second set of files that are synched together so that a change in one set is copied to the other. Branching a repository only creates an alternate version of the same files, where a change is one version has no effect on the other.
 
 A branch lives side by side other branches in the repository. Or rather, they live on top of one another. When you look at your local copy of the repository, you will only ever see one set of files, no matter how many branches there are. GitHub Desktop and GitHub.com both tell you what branch you’re in currently, and what other branches are included in the repository. When you switch branches, GitHub switches your view of the files, showing you only the files and versions of files that are part of that branch. When working in your local copy, and when making commits, you’ll always want to double check you’re in the branch you want to be in.
-
-### Reverting Changes
-
-
-
-
